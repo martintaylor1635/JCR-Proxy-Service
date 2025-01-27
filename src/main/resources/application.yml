@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: JCR Proxy Service
+  threads:
+    virtual:
+      enabled: true
+  mvc:
+    problemdetails:
+      enabled: true
+  main:
+    banner-mode: off
